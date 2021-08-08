@@ -4,7 +4,7 @@ const SHAPES = ["kwadrat", "trojkat", "prostokat", "kolo"]
 const COLORABLE = ['background', 'text', 'number', 'shape']
 
 const COLORS = {
-    'czarny' : '#000000',
+    'czarny' : 'black',
     'bialy' : '#FFFFFF',
     'niebieski' : '#0000ff',
     'czerwony' : '#ff0000',
